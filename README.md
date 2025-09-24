@@ -33,7 +33,7 @@ Currently, I am developing my skills through self-study and personal projects, f
 ---
 ### 🤝 Let's Connect
 
-I'm always open to discussing new opportunities, internship offers, or collaborative learning projects!
+I'm always open to discussing new opportunities, offers, or collaborative learning projects!
 
 *   **Email:** [rafayel.khachatryan.work@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=rafayel.khachatryan.work@gmail.com)
 *   **Telegram:** [@rafayel_khach](https://t.me/rafayel_khach)
