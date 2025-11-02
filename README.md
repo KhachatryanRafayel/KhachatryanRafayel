@@ -14,21 +14,7 @@ A collection of my testing projects, documentation, and practical case studies:
 ---
 ## 👋 About Me
 
-I returned from military service in January 2025 and decided to pursue a career in QA. I often notice usability issues in apps and websites and naturally think of ways to describe and improve them. My problem-solving skills align well with testing techniques like error guessing, and together with my technical background, this gives me a solid start in QA.
-
-Currently, I am developing my skills through self-study and personal projects, focusing on test design, bug reporting, and QA processes. I am seeking an internship or junior QA role to apply my knowledge, contribute to product quality, and grow as a professional.
-
----
-
-### 🛠 Tech Stack & Skills
-
-| Category          | Technologies/Skills                                                   |
-| ----------------- | --------------------------------------------------------------------- |
-| **Testing**       | Smoke, Sanity, Regression, Retest                                     |
-| **Documentation** | Test Cases, Check-Lists, Bug Reports, TSR             |
-| **Databases**     | SQL (queries, subqueries, joins, filtering, aggregates)               |
-| **Tools**         | Jira, Trello, Chrome DevTools, Postman, Git, SQL,                     |
-| **Languages**     | Python/selenium (Basics for automation), c/c++, HTML/CSS (Basic understanding) |
+Aspiring QA specialist with a passion for programming. I enjoy testing software, finding issues before they reach users, and understanding how code works under the hood. I have hands-on experience testing web applications, including exploratory, functional, and UI/UX testing. I’m eager to grow as a quality assurance engineer by mastering modern tools and methodologies, continuously improving my skills, and eventually transitioning into test automation.
 
 ---
 ### 🤝 Let's Connect
