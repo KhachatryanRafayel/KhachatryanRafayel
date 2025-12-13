@@ -6,6 +6,10 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rafayel_khach)
 
 ---
+## 🛠️ Languages and tools I use
+![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,c,cpp,py,django,selenium,postman,git,github,gitlab)
+
+---
 ## 👋 About Me
 
 I am a QA engineer with a passion for programming. I enjoy testing software, finding issues before they reach users, and understanding how code works under the hood. I have practical experience testing web applications, including exploratory, functional, and UI/UX testing. I’m eager to grow as a quality assurance engineer by mastering modern tools and methodologies, continuously improving my skills, and eventually transitioning into test automation.
