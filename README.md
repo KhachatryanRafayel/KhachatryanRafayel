@@ -17,7 +17,7 @@ A collection of my testing projects, documentation, and practical case studies:
 ---
 ## 👋 About Me
 
-I am a QA engineer with a passion for programming. I enjoy testing software, finding issues before they reach users, and understanding how code works under the hood. I have practical experience testing web applications, including exploratory, functional, and UI/UX testing. I’m eager to grow as a quality assurance engineer by mastering modern tools and methodologies, continuously improving my skills, and eventually transitioning into test automation.
+I am a QA engineer with experience in testing web applications, including exploratory, functional, and UI testing. I also write functional and regression automated tests using data-driven frameworks. I have worked with tools such as Selenium and PyTest to improve software quality and reduce release risks. I am eager to grow as an AQA engineer by mastering modern tools and methodologies, continuously enhancing my skills, and contributing to high-quality software delivery.
 
 ---
 
