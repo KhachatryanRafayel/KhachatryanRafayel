@@ -1,4 +1,4 @@
-# 🙋‍♂️ Hi, I'm Rafayel Khachatryan, a QA engineer!
+# Hi, I'm Rafayel Khachatryan, a QA engineer!
 ---
 ## 💼 My Portfolio
 A collection of my testing projects, documentation, and practical case studies:
