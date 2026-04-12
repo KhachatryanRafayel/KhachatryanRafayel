@@ -11,7 +11,7 @@ A collection of my testing projects, documentation, and practical case studies:
 
 ---
 ## 🛠️ Languages and tools I use
-![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,c,cpp,py,django,selenium,postman,git,github,gitlab)
+![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,c,cpp,py,django,selenium,postman)
 
 ---
 ## 👋 About Me
