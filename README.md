@@ -1,4 +1,4 @@
-# Hi, I'm Rafayel Khachatryan, a QA engineer!
+# Hi, I'm Rafayel
 ---
 ## 💼 My Portfolio
 A collection of my testing projects, documentation, and practical case studies:
@@ -8,7 +8,6 @@ A collection of my testing projects, documentation, and practical case studies:
 ## 🌐 Reach me at:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rafayel.khachatryan.work@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khachatryanrafayel/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rafayel_khach)
 
 ---
 ## 🛠️ Languages and tools I use
@@ -17,8 +16,6 @@ A collection of my testing projects, documentation, and practical case studies:
 ---
 ## 👋 About Me
 
-I am a QA engineer with experience in testing web applications, including exploratory, functional, and UI testing. I also write functional and regression automated tests using data-driven frameworks. I have worked with tools such as Selenium and PyTest to improve software quality and reduce release risks. I am eager to grow as an AQA engineer by mastering modern tools and methodologies, continuously enhancing my skills, and contributing to high-quality software delivery.
+QA Engineer working with both manual and automated testing. I perform functional and exploratory testing, also i build automated tests using Python, Selenium and data-driven testing frameworks. Beyond testing, I’m also interested in software development and build small tools and systems such as bots and ETL systems. Currently pursuing a bachelor's degree in Cybersecurity at the National Polytechnic University of Armenia while working as a QA engineer and applying my technical knowledge in practice.
 
 ---
-
-**Thanks for visiting my profile! Have a great day!**
